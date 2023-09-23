@@ -12,4 +12,7 @@ stream = video_instance.streams.get_highest_resolution()
 
 #download
 
-stream.download()
+video1= stream.download()
+
+print(video1.title)
+
