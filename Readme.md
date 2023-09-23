@@ -14,7 +14,6 @@ You can install pytube using pip:
 ### Importing the Library
 ```
 import pytube
-
 ```
 ### Creating a YouTube Instance
 
